@@ -538,7 +538,7 @@ detail="Unable to retrieve task"
 
 - The SQL matches the users/tasks schema from the previous step.
 
-**\### Task 4: Run Secure Code Reflection & Debugging (Stage 4)  
+**\**### Task 4: Run Secure Code Reflection & Debugging (Stage 4) ** 
   
 \### ChatGPt Input**
 
@@ -707,7 +707,7 @@ module.exports = router;
 
 **Important:** For a production API, successful authentication should also establish a session or issue a securely signed access token (such as a short-lived JWT), rather than simply returning the user record.
 
-**\### Task 5: Run Secure Code Reflection & Debugging (Stage 4)  
+**\**### Task 5: Run Secure Code Reflection & Debugging (Stage 4)  **
   
 \### ChatGPt Input**
 
@@ -943,7 +943,7 @@ Both an unknown email and an incorrect password return:
 
 For production, the next security layer should include **rate limiting/lockout protection and a secure session or short-lived access token** after successful authentication.
 
-**\### Task 5: API Documentation Prompt  
+**\### Task 5: Unit Test Prompt  
   
 \### ChatGPt Input:**
 
